@@ -1,0 +1,9 @@
+---
+title: "CryoNeRF: reconstruction of homogeneous and heterogeneous cryo-EM structures using neural radiance field"
+collection: publications
+permalink: /publication/CryoNeRF
+date: 2025-01-14
+venue: 'BioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2025.01.10.632460v1.full.pdf'
+citation: 'Qu, Huaizhi, Xiao Wang, Yuanyuan Zhang, Sheng Wang, William Stafford Noble, and Tianlong Chen. "CryoNeRF: reconstruction of homogeneous and heterogeneous cryo-EM structures using neural radiance field." bioRxiv (2025): 2025-01.'
+---
