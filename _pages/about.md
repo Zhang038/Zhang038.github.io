@@ -17,6 +17,7 @@ You can find my CV [here](../assets/Yuanyuan_CV_2025-1009.pdf)
 
 News
 ======
+ - Dec 2025: Our work [HiCFoundation](https://www.biorxiv.org/content/10.1101/2024.12.16.628821v1.full) is accepted by Nature Methods in principle.
  - May 2025: New work [PoseX](https://arxiv.org/pdf/2505.01700) posted on Arxiv.
  - March 2025: Our new survey paper [Biomedical Foundation Model: A Survey](https://arxiv.org/pdf/2503.02104) posted on Arxiv.
  - January 2025: New work [CryoNeRF](https://www.biorxiv.org/content/10.1101/2025.01.10.632460v1.full.pdf) posted on BioRxiv.
